@@ -1,5 +1,5 @@
 # NESQUIK - Kibe Site
-Isso foi porque o @Rvdy tinha me desafiado a criar um site desse tipo, então usem da maneira que vocês quiser.
+Isso aconteceu porque o @Rvdy me desafiou a criar um site desse tipo. Então, fiquem à vontade para usar como quiserem.
 ---
 ainda faço do meu jeito fds
 
